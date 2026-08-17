@@ -4,7 +4,7 @@
 
 A single-page interactive encyclopedia of the solar system and beyond — built with plain HTML, CSS, and JavaScript. No frameworks, no build step.
 
-**[Live site →](https://ayushmanxclaude.github.io/orbital-encyclopedia/)**
+**[Cick here ](https://ayushmanxai.github.io/orbital-encylopedia/)**
 
 
 ## What's inside
